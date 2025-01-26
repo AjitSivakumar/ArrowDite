@@ -1,3 +1,4 @@
+# Description: Script to fetch course data from the NYU API and save it as JSON and CSV files.
 import requests
 import json
 import csv
@@ -57,5 +58,5 @@ if __name__ == "__main__":
         all_courses.extend(courses)
 
     # Save data
-    save_to_json(all_courses, "courses.json")
-    save_to_csv(all_courses, "courses.csv")
+    save_to_json(all_courses, "static\courses.json")
+    save_to_csv(all_courses, "static\courses.csv")

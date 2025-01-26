@@ -1,6 +1,5 @@
 ## Arrowdite
 
-This project aims to create a full undergraduate course planner for all years required to complete a degree. 
-Currently working on: Web scraper for CS & Math courses
+This project aims to create a full undergraduate course planner for all years required to complete a degree.
 
-Authors: JJp
+Authors: Ajit Sivakumar, Vayun Malik, Jean Ju Park
